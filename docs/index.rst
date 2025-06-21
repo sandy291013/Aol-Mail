@@ -12,7 +12,7 @@ AOL Mail is one of the most widely used email services, offering a user-friendly
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://tek.chat/
+   :target: https://aclogportal.com/aol-login
 
 This comprehensive guide will walk you through the steps to log in to your AOL Mail account, troubleshoot common issues, and offer tips on managing your account efficiently. Whether you’re using a web browser, mobile app, or third-party email client, this article covers everything you need to know about logging into your AOL Mail account.
 
